@@ -1,1 +1,0 @@
-# Nginx-Log-Analyser
